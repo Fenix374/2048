@@ -1,0 +1,419 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\semen\\source\\repos\\Game2048\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6EF3E7-DC4A-41AA-A109-110ACCAD11F7}|Game2048\\Game2048.csproj|c:\\users\\semen\\source\\repos\\game2048\\game2048\\view\\page\\gamepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9C6EF3E7-DC4A-41AA-A109-110ACCAD11F7}|Game2048\\Game2048.csproj|solutionrelative:game2048\\view\\page\\gamepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6EF3E7-DC4A-41AA-A109-110ACCAD11F7}|Game2048\\Game2048.csproj|c:\\users\\semen\\source\\repos\\game2048\\game2048\\view\\page\\statisticspage.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9C6EF3E7-DC4A-41AA-A109-110ACCAD11F7}|Game2048\\Game2048.csproj|solutionrelative:game2048\\view\\page\\statisticspage.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6EF3E7-DC4A-41AA-A109-110ACCAD11F7}|Game2048\\Game2048.csproj|c:\\users\\semen\\source\\repos\\game2048\\game2048\\view\\page\\menupage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9C6EF3E7-DC4A-41AA-A109-110ACCAD11F7}|Game2048\\Game2048.csproj|solutionrelative:game2048\\view\\page\\menupage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6EF3E7-DC4A-41AA-A109-110ACCAD11F7}|Game2048\\Game2048.csproj|c:\\users\\semen\\source\\repos\\game2048\\game2048\\view\\page\\menupage.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9C6EF3E7-DC4A-41AA-A109-110ACCAD11F7}|Game2048\\Game2048.csproj|solutionrelative:game2048\\view\\page\\menupage.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6EF3E7-DC4A-41AA-A109-110ACCAD11F7}|Game2048\\Game2048.csproj|c:\\users\\semen\\source\\repos\\game2048\\game2048\\view\\page\\gamepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C6EF3E7-DC4A-41AA-A109-110ACCAD11F7}|Game2048\\Game2048.csproj|solutionrelative:game2048\\view\\page\\gamepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6EF3E7-DC4A-41AA-A109-110ACCAD11F7}|Game2048\\Game2048.csproj|c:\\users\\semen\\source\\repos\\game2048\\game2048\\model\\gameboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C6EF3E7-DC4A-41AA-A109-110ACCAD11F7}|Game2048\\Game2048.csproj|solutionrelative:game2048\\model\\gameboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6EF3E7-DC4A-41AA-A109-110ACCAD11F7}|Game2048\\Game2048.csproj|c:\\users\\semen\\source\\repos\\game2048\\game2048\\model\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C6EF3E7-DC4A-41AA-A109-110ACCAD11F7}|Game2048\\Game2048.csproj|solutionrelative:game2048\\model\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6EF3E7-DC4A-41AA-A109-110ACCAD11F7}|Game2048\\Game2048.csproj|c:\\users\\semen\\source\\repos\\game2048\\game2048\\data\\statistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C6EF3E7-DC4A-41AA-A109-110ACCAD11F7}|Game2048\\Game2048.csproj|solutionrelative:game2048\\data\\statistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6EF3E7-DC4A-41AA-A109-110ACCAD11F7}|Game2048\\Game2048.csproj|c:\\users\\semen\\source\\repos\\game2048\\game2048\\data\\serdeser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C6EF3E7-DC4A-41AA-A109-110ACCAD11F7}|Game2048\\Game2048.csproj|solutionrelative:game2048\\data\\serdeser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6EF3E7-DC4A-41AA-A109-110ACCAD11F7}|Game2048\\Game2048.csproj|c:\\users\\semen\\source\\repos\\game2048\\game2048\\converter\\valuetocolorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C6EF3E7-DC4A-41AA-A109-110ACCAD11F7}|Game2048\\Game2048.csproj|solutionrelative:game2048\\converter\\valuetocolorconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6EF3E7-DC4A-41AA-A109-110ACCAD11F7}|Game2048\\Game2048.csproj|c:\\users\\semen\\source\\repos\\game2048\\game2048\\converter\\intarraytoobservablecollectionconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C6EF3E7-DC4A-41AA-A109-110ACCAD11F7}|Game2048\\Game2048.csproj|solutionrelative:game2048\\converter\\intarraytoobservablecollectionconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6EF3E7-DC4A-41AA-A109-110ACCAD11F7}|Game2048\\Game2048.csproj|c:\\users\\semen\\source\\repos\\game2048\\game2048\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C6EF3E7-DC4A-41AA-A109-110ACCAD11F7}|Game2048\\Game2048.csproj|solutionrelative:game2048\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6EF3E7-DC4A-41AA-A109-110ACCAD11F7}|Game2048\\Game2048.csproj|c:\\users\\semen\\source\\repos\\game2048\\game2048\\commands\\navigationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C6EF3E7-DC4A-41AA-A109-110ACCAD11F7}|Game2048\\Game2048.csproj|solutionrelative:game2048\\commands\\navigationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6EF3E7-DC4A-41AA-A109-110ACCAD11F7}|Game2048\\Game2048.csproj|c:\\users\\semen\\source\\repos\\game2048\\game2048\\viewmodel\\statisticsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C6EF3E7-DC4A-41AA-A109-110ACCAD11F7}|Game2048\\Game2048.csproj|solutionrelative:game2048\\viewmodel\\statisticsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6EF3E7-DC4A-41AA-A109-110ACCAD11F7}|Game2048\\Game2048.csproj|c:\\users\\semen\\source\\repos\\game2048\\game2048\\viewmodel\\menuviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C6EF3E7-DC4A-41AA-A109-110ACCAD11F7}|Game2048\\Game2048.csproj|solutionrelative:game2048\\viewmodel\\menuviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6EF3E7-DC4A-41AA-A109-110ACCAD11F7}|Game2048\\Game2048.csproj|c:\\users\\semen\\source\\repos\\game2048\\game2048\\viewmodel\\gameviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C6EF3E7-DC4A-41AA-A109-110ACCAD11F7}|Game2048\\Game2048.csproj|solutionrelative:game2048\\viewmodel\\gameviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6EF3E7-DC4A-41AA-A109-110ACCAD11F7}|Game2048\\Game2048.csproj|c:\\users\\semen\\source\\repos\\game2048\\game2048\\viewmodel\\base\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C6EF3E7-DC4A-41AA-A109-110ACCAD11F7}|Game2048\\Game2048.csproj|solutionrelative:game2048\\viewmodel\\base\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\semen\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6EF3E7-DC4A-41AA-A109-110ACCAD11F7}|Game2048\\Game2048.csproj|c:\\users\\semen\\source\\repos\\game2048\\game2048\\view\\window\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9C6EF3E7-DC4A-41AA-A109-110ACCAD11F7}|Game2048\\Game2048.csproj|solutionrelative:game2048\\view\\window\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6EF3E7-DC4A-41AA-A109-110ACCAD11F7}|Game2048\\Game2048.csproj|c:\\users\\semen\\source\\repos\\game2048\\game2048\\view\\window\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C6EF3E7-DC4A-41AA-A109-110ACCAD11F7}|Game2048\\Game2048.csproj|solutionrelative:game2048\\view\\window\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6EF3E7-DC4A-41AA-A109-110ACCAD11F7}|Game2048\\Game2048.csproj|c:\\users\\semen\\source\\repos\\game2048\\game2048\\view\\page\\statisticspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C6EF3E7-DC4A-41AA-A109-110ACCAD11F7}|Game2048\\Game2048.csproj|solutionrelative:game2048\\view\\page\\statisticspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6EF3E7-DC4A-41AA-A109-110ACCAD11F7}|Game2048\\Game2048.csproj|c:\\users\\semen\\source\\repos\\game2048\\game2048\\view\\page\\menupage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C6EF3E7-DC4A-41AA-A109-110ACCAD11F7}|Game2048\\Game2048.csproj|solutionrelative:game2048\\view\\page\\menupage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6EF3E7-DC4A-41AA-A109-110ACCAD11F7}|Game2048\\Game2048.csproj|c:\\users\\semen\\source\\repos\\game2048\\game2048\\commands\\base\\basecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C6EF3E7-DC4A-41AA-A109-110ACCAD11F7}|Game2048\\Game2048.csproj|solutionrelative:game2048\\commands\\base\\basecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C6EF3E7-DC4A-41AA-A109-110ACCAD11F7}|Game2048\\Game2048.csproj|c:\\users\\semen\\source\\repos\\game2048\\game2048\\game2048.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9C6EF3E7-DC4A-41AA-A109-110ACCAD11F7}|Game2048\\Game2048.csproj|solutionrelative:game2048\\game2048.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StatisticsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\semen\\source\\repos\\Game2048\\Game2048\\View\\Page\\StatisticsPage.xaml",
+              "RelativeDocumentMoniker": "Game2048\\View\\Page\\StatisticsPage.xaml",
+              "ToolTip": "C:\\Users\\semen\\source\\repos\\Game2048\\Game2048\\View\\Page\\StatisticsPage.xaml",
+              "RelativeToolTip": "Game2048\\View\\Page\\StatisticsPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-21T16:09:14.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuPage.xaml",
+              "DocumentMoniker": "C:\\Users\\semen\\source\\repos\\Game2048\\Game2048\\View\\Page\\MenuPage.xaml",
+              "RelativeDocumentMoniker": "Game2048\\View\\Page\\MenuPage.xaml",
+              "ToolTip": "C:\\Users\\semen\\source\\repos\\Game2048\\Game2048\\View\\Page\\MenuPage.xaml",
+              "RelativeToolTip": "Game2048\\View\\Page\\MenuPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-21T16:08:16.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MenuPage.xaml",
+              "DocumentMoniker": "C:\\Users\\semen\\source\\repos\\Game2048\\Game2048\\View\\Page\\MenuPage.xaml",
+              "RelativeDocumentMoniker": "Game2048\\View\\Page\\MenuPage.xaml",
+              "ToolTip": "C:\\Users\\semen\\source\\repos\\Game2048\\Game2048\\View\\Page\\MenuPage.xaml",
+              "RelativeToolTip": "Game2048\\View\\Page\\MenuPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-21T16:08:15.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GamePage.xaml",
+              "DocumentMoniker": "C:\\Users\\semen\\source\\repos\\Game2048\\Game2048\\View\\Page\\GamePage.xaml",
+              "RelativeDocumentMoniker": "Game2048\\View\\Page\\GamePage.xaml",
+              "ToolTip": "C:\\Users\\semen\\source\\repos\\Game2048\\Game2048\\View\\Page\\GamePage.xaml",
+              "RelativeToolTip": "Game2048\\View\\Page\\GamePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-21T16:08:00.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GamePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\semen\\source\\repos\\Game2048\\Game2048\\View\\Page\\GamePage.xaml.cs",
+              "RelativeDocumentMoniker": "Game2048\\View\\Page\\GamePage.xaml.cs",
+              "ToolTip": "C:\\Users\\semen\\source\\repos\\Game2048\\Game2048\\View\\Page\\GamePage.xaml.cs",
+              "RelativeToolTip": "Game2048\\View\\Page\\GamePage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T15:50:09.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameBoard.cs",
+              "DocumentMoniker": "C:\\Users\\semen\\source\\repos\\Game2048\\Game2048\\Model\\GameBoard.cs",
+              "RelativeDocumentMoniker": "Game2048\\Model\\GameBoard.cs",
+              "ToolTip": "C:\\Users\\semen\\source\\repos\\Game2048\\Game2048\\Model\\GameBoard.cs",
+              "RelativeToolTip": "Game2048\\Model\\GameBoard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T15:47:08.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Statistics.cs",
+              "DocumentMoniker": "C:\\Users\\semen\\source\\repos\\Game2048\\Game2048\\Data\\Statistics.cs",
+              "RelativeDocumentMoniker": "Game2048\\Data\\Statistics.cs",
+              "ToolTip": "C:\\Users\\semen\\source\\repos\\Game2048\\Game2048\\Data\\Statistics.cs",
+              "RelativeToolTip": "Game2048\\Data\\Statistics.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T15:46:27.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SerDeser.cs",
+              "DocumentMoniker": "C:\\Users\\semen\\source\\repos\\Game2048\\Game2048\\Data\\SerDeser.cs",
+              "RelativeDocumentMoniker": "Game2048\\Data\\SerDeser.cs",
+              "ToolTip": "C:\\Users\\semen\\source\\repos\\Game2048\\Game2048\\Data\\SerDeser.cs",
+              "RelativeToolTip": "Game2048\\Data\\SerDeser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T15:45:25.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\semen\\source\\repos\\Game2048\\Game2048\\Model\\Player.cs",
+              "RelativeDocumentMoniker": "Game2048\\Model\\Player.cs",
+              "ToolTip": "C:\\Users\\semen\\source\\repos\\Game2048\\Game2048\\Model\\Player.cs",
+              "RelativeToolTip": "Game2048\\Model\\Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T15:47:41.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ValueToColorConverter.cs",
+              "DocumentMoniker": "C:\\Users\\semen\\source\\repos\\Game2048\\Game2048\\Converter\\ValueToColorConverter.cs",
+              "RelativeDocumentMoniker": "Game2048\\Converter\\ValueToColorConverter.cs",
+              "ToolTip": "C:\\Users\\semen\\source\\repos\\Game2048\\Game2048\\Converter\\ValueToColorConverter.cs",
+              "RelativeToolTip": "Game2048\\Converter\\ValueToColorConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T15:44:05.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IntArrayToObservableCollectionConverter.cs",
+              "DocumentMoniker": "C:\\Users\\semen\\source\\repos\\Game2048\\Game2048\\Converter\\IntArrayToObservableCollectionConverter.cs",
+              "RelativeDocumentMoniker": "Game2048\\Converter\\IntArrayToObservableCollectionConverter.cs",
+              "ToolTip": "C:\\Users\\semen\\source\\repos\\Game2048\\Game2048\\Converter\\IntArrayToObservableCollectionConverter.cs",
+              "RelativeToolTip": "Game2048\\Converter\\IntArrayToObservableCollectionConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T15:43:43.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\semen\\source\\repos\\Game2048\\Game2048\\Commands\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "Game2048\\Commands\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\semen\\source\\repos\\Game2048\\Game2048\\Commands\\RelayCommand.cs",
+              "RelativeToolTip": "Game2048\\Commands\\RelayCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T15:42:18.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NavigationCommand.cs",
+              "DocumentMoniker": "C:\\Users\\semen\\source\\repos\\Game2048\\Game2048\\Commands\\NavigationCommand.cs",
+              "RelativeDocumentMoniker": "Game2048\\Commands\\NavigationCommand.cs",
+              "ToolTip": "C:\\Users\\semen\\source\\repos\\Game2048\\Game2048\\Commands\\NavigationCommand.cs",
+              "RelativeToolTip": "Game2048\\Commands\\NavigationCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T15:41:57.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StatisticsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\semen\\source\\repos\\Game2048\\Game2048\\ViewModel\\StatisticsViewModel.cs",
+              "RelativeDocumentMoniker": "Game2048\\ViewModel\\StatisticsViewModel.cs",
+              "ToolTip": "C:\\Users\\semen\\source\\repos\\Game2048\\Game2048\\ViewModel\\StatisticsViewModel.cs",
+              "RelativeToolTip": "Game2048\\ViewModel\\StatisticsViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T15:58:32.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MenuViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\semen\\source\\repos\\Game2048\\Game2048\\ViewModel\\MenuViewModel.cs",
+              "RelativeDocumentMoniker": "Game2048\\ViewModel\\MenuViewModel.cs",
+              "ToolTip": "C:\\Users\\semen\\source\\repos\\Game2048\\Game2048\\ViewModel\\MenuViewModel.cs",
+              "RelativeToolTip": "Game2048\\ViewModel\\MenuViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T15:58:05.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GameViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\semen\\source\\repos\\Game2048\\Game2048\\ViewModel\\GameViewModel.cs",
+              "RelativeDocumentMoniker": "Game2048\\ViewModel\\GameViewModel.cs",
+              "ToolTip": "C:\\Users\\semen\\source\\repos\\Game2048\\Game2048\\ViewModel\\GameViewModel.cs",
+              "RelativeToolTip": "Game2048\\ViewModel\\GameViewModel.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAxwDEBAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T15:56:50.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ViewModelBase.cs",
+              "DocumentMoniker": "C:\\Users\\semen\\source\\repos\\Game2048\\Game2048\\ViewModel\\Base\\ViewModelBase.cs",
+              "RelativeDocumentMoniker": "Game2048\\ViewModel\\Base\\ViewModelBase.cs",
+              "ToolTip": "C:\\Users\\semen\\source\\repos\\Game2048\\Game2048\\ViewModel\\Base\\ViewModelBase.cs",
+              "RelativeToolTip": "Game2048\\ViewModel\\Base\\ViewModelBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T15:56:03.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ResourcePart.cs",
+              "DocumentMoniker": "C:\\Users\\semen\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs",
+              "ToolTip": "C:\\Users\\semen\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T16:02:13.379Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\semen\\source\\repos\\Game2048\\Game2048\\View\\Window\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Game2048\\View\\Window\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\semen\\source\\repos\\Game2048\\Game2048\\View\\Window\\MainWindow.xaml",
+              "RelativeToolTip": "Game2048\\View\\Window\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-21T15:54:53.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "StatisticsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\semen\\source\\repos\\Game2048\\Game2048\\View\\Page\\StatisticsPage.xaml.cs",
+              "RelativeDocumentMoniker": "Game2048\\View\\Page\\StatisticsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\semen\\source\\repos\\Game2048\\Game2048\\View\\Page\\StatisticsPage.xaml.cs",
+              "RelativeToolTip": "Game2048\\View\\Page\\StatisticsPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T15:53:35.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\semen\\source\\repos\\Game2048\\Game2048\\View\\Window\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Game2048\\View\\Window\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\semen\\source\\repos\\Game2048\\Game2048\\View\\Window\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Game2048\\View\\Window\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T15:38:14.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MenuPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\semen\\source\\repos\\Game2048\\Game2048\\View\\Page\\MenuPage.xaml.cs",
+              "RelativeDocumentMoniker": "Game2048\\View\\Page\\MenuPage.xaml.cs",
+              "ToolTip": "C:\\Users\\semen\\source\\repos\\Game2048\\Game2048\\View\\Page\\MenuPage.xaml.cs",
+              "RelativeToolTip": "Game2048\\View\\Page\\MenuPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T15:51:57.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BaseCommand.cs",
+              "DocumentMoniker": "C:\\Users\\semen\\source\\repos\\Game2048\\Game2048\\Commands\\Base\\BaseCommand.cs",
+              "RelativeDocumentMoniker": "Game2048\\Commands\\Base\\BaseCommand.cs",
+              "ToolTip": "C:\\Users\\semen\\source\\repos\\Game2048\\Game2048\\Commands\\Base\\BaseCommand.cs",
+              "RelativeToolTip": "Game2048\\Commands\\Base\\BaseCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T15:41:10.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Game2048.csproj",
+              "DocumentMoniker": "C:\\Users\\semen\\source\\repos\\Game2048\\Game2048\\Game2048.csproj",
+              "RelativeDocumentMoniker": "Game2048\\Game2048.csproj",
+              "ToolTip": "C:\\Users\\semen\\source\\repos\\Game2048\\Game2048\\Game2048.csproj",
+              "RelativeToolTip": "Game2048\\Game2048.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-21T15:40:10.868Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

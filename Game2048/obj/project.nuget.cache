@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "R9vGJ1WbZfsl9LXijCavYc2EHDqIiVrHoGOVaFw31q/dpI74TD0MLiDnINNcWuztzUeRAX3TQzuK356J1TShNA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\semen\\source\\repos\\Game2048\\Game2048\\Game2048.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\semen\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
